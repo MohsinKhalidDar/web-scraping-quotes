@@ -1,4 +1,6 @@
 # 📜 Quotes Web Scraper (Life Quotes)
+
+## 📸 Sample Output
 ![Life Quotes Output](https://raw.githubusercontent.com/MohsinKhalidDar/web-scraping-quotes/main/screenshots/output_preview.png)
 
 This project scrapes quotes from **https://quotes.toscrape.com**, filters quotes
@@ -79,10 +81,5 @@ Open quotes_scraper.ipynb
 Run all cells from top to bottom using:
 
 Shift + Enter
-
-## 📸 Sample Output
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohsinKhalidDar/web-scraping-quotes/main/screenshots/output_preview_fixed.png" width="800">
-</p>
+ 
 
