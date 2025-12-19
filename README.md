@@ -83,5 +83,5 @@ Shift + Enter
 ## 📸 Sample Output
 
  **life quotes dataset**:
-![web-scraping-quptes](screenshots/output_preview.png)
+![web-scraping-quotes](screenshots/output_preview.png)
 
