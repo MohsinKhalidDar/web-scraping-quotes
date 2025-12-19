@@ -1,0 +1,4 @@
+scraped_data/* linguist-generated
+cleaned_data/* linguist-generated
+*.html linguist-generated
+*.csv linguist-generated
