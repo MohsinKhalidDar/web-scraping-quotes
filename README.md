@@ -93,6 +93,3 @@ Run all cells from top to bottom using:
 
 Shift + Enter
  
-
-### Pull Shark Achievement Test – PR 1
-### Pull Shark Achievement Test – PR 2
