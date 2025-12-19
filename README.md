@@ -33,13 +33,21 @@ filtering content, and exporting structured data.
 
 ## 📂 Project Structure
 web-scraping-quotes/
+
 │
+
 ├── quotes_scraper.ipynb
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── scraped_data/
+
 │ └── quotes1.html, quotes2.html, ...
+
 ├── cleaned_data/
+
 │ └── life_quotes.csv
 
 
