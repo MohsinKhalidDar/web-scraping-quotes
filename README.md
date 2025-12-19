@@ -79,9 +79,9 @@ Run all cells from top to bottom using:
 
 Shift + Enter
 
-
 ## 📸 Sample Output
 
 <p align="center">
-  <img src="screenshots/output_preview.png" width="800">
+  <img src="https://raw.githubusercontent.com/MohsinKhalidDar/web-scraping-quotes/main/screenshots/output_preview.png" width="800">
 </p>
+
