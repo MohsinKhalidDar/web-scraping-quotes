@@ -55,8 +55,11 @@ web-scraping-quotes/
 ## ▶ How to Run the Jupyter Notebook
 
 1️⃣ Clone the Repository
+
 git clone https://github.com/MohsinKhalidDar/web-scraping-quotes.git
 cd web-scraping-quotes
+ls
+
 
 2️⃣ Create a Virtual Environment(Optional) 
 python -m venv venv
