@@ -1,4 +1,5 @@
 # 📜 Quotes Web Scraper (Life Quotes)
+![Life Quotes Output](https://raw.githubusercontent.com/MohsinKhalidDar/web-scraping-quotes/main/screenshots/output_preview.png)
 
 This project scrapes quotes from **https://quotes.toscrape.com**, filters quotes
 tagged with **"life"**, and saves them into a clean CSV file.
