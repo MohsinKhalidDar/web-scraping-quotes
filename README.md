@@ -34,6 +34,7 @@ filtering content, and exporting structured data.
 ## 📂 Project Structure
 web-scraping-quotes/
 │
+
 ├── quotes_scraper.ipynb
 
 ├── requirements.txt
