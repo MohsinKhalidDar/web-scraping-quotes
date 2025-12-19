@@ -82,6 +82,6 @@ Shift + Enter
 ## 📸 Sample Output
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MohsinKhalidDar/web-scraping-quotes/main/screenshots/output_preview.png" width="800">
+  <img src="https://raw.githubusercontent.com/MohsinKhalidDar/web-scraping-quotes/main/screenshots/output_preview_fixed.png" width="800">
 </p>
 
