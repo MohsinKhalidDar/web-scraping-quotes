@@ -82,6 +82,6 @@ Shift + Enter
 
 ## 📸 Sample Output
 
-Below is a preview of the extracted **life quotes dataset**:
+ **life quotes dataset**:
 
 ![Life Quotes Output](screenshots/output_preview.png)
