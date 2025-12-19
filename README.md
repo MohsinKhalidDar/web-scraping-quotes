@@ -57,7 +57,9 @@ web-scraping-quotes/
 1️⃣ Clone the Repository
 
 git clone https://github.com/MohsinKhalidDar/web-scraping-quotes.git
+
 cd web-scraping-quotes
+
 ls
 
 
