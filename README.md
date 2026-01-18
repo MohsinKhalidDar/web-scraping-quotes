@@ -12,6 +12,7 @@ filtering content, and exporting structured data.
 
 ---
 
+
 ## 🚀 Features
 - Pagination scraping (unknown number of pages)
 - Retry logic for network failures
